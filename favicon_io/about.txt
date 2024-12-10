@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Bacasime Antique
+- Font Author: Copyright 2023 The Bacasime Antique Project Authors (https://github.com/docrepair-fonts/bacasime-antique-fonts), with Reserved Font Name "Playfair".
+- Font Source: https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwStSUrV_BE.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

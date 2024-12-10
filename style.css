@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "plain light";
+    font-family: "Plain Light";
     color: white;
 }
 
@@ -53,7 +53,8 @@ html, body{
     font-size: 4.8vw;
     text-transform: uppercase;
     font-weight: 900;
-    animation-name: anime;
+    /* animation-name: anime; */
+    opacity: 0;
     animation-duration: 5s;
     animation-iteration-count: infinite;
 }
@@ -103,4 +104,11 @@ html, body{
     height: 100vh;
     width: 100%;
     background-color: #151515;
+}
+
+#page1 .nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2.3vw 4.5vw;
 }
